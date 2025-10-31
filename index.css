@@ -48,7 +48,7 @@ body{
 }
 
 .review1, .review2, .review3{
-    width: 400px;
+    width: 350px;
     background-color:  hsl(300, 43%, 22%);
     color: white;
     margin-bottom: 20px;
@@ -164,4 +164,5 @@ body{
     .review3{
         margin-top: 45px;
     }
+
 }
